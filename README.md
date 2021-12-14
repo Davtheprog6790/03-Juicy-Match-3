@@ -6,10 +6,10 @@ Adding Juicy features to a match 3 game
 Built Using Godot 3.3
 
 ## References
-https://freesound.org/people/InspectorJ/sounds/397442/
-https://kenney.nl/assets/rolling-ball-assets
-https://patrickdearteaga.com/arcade-music/
-https://www.fontspace.com/
+1) https://freesound.org/people/InspectorJ/sounds/397442/
+2) https://kenney.nl/assets/rolling-ball-assets
+3) https://patrickdearteaga.com/arcade-music/
+4) https://www.fontspace.com/
 
 ## Created by
 David Dahodu
